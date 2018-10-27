@@ -1,0 +1,5 @@
+target = 'Theresa May'
+encrypt_dir = 'Documents'
+key_seed = '9352f93ca1f5b49647fedf1e3b45f9de'
+request_amount = '9 BTC'
+btc_addr = '1GVL3NPtESgz73rcom1ipZdBitdn8ffnco'
