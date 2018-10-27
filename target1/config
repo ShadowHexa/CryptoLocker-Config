@@ -1,0 +1,5 @@
+target = 'Test target'
+encrypt_dir = 'C:\Users\Gabriel\Documents\ShadowLockerTest'
+key_seed = 'TestSeed'
+request_amount = '1000 LULZ ;)'
+btc_addr = '1GVL3NPtESgz73rcom1ipZdBitdn8ffnco'
